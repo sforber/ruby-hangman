@@ -1,0 +1,1 @@
+Hangman game made with ruby for The Odin Project. Allows for the saving and loading of games.
